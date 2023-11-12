@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="../css/style.css"> 
+</head> 
+<body>
+    <div class="background">
+        <img src="../css/images/backgroundLine.png">
+        <div class="Header_menu">
+            <ul>
+                <li><a href=".">Главная</a></li>
+                <li><a href="/stream">Классификация в реальном времени</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="dropArea">
+        <img src="../css/images/logo.png" width="80%" id = "content"/>
+    </div>
+    <div>
+        <input type="file" name="f" accept="video/avi" id = "videoFile" class='input'>
+        <label for="videoFile">Выберите файл</label>
+        <button id = "sendVideo" onclick="workWithVideo()">Oтправить видео на обработку</button>
+    </div>
+    <div id="Result">
+        <p id = "result">Результат обрабатывается</p>
+    </div>
+    
+    <button id = "getBDbutton" onclick="getBD()">вывести информацию из базы данных</button></p></div>
+    <div id="BDResult">
+        
+    </div>
+    
+</body>
+<script src="../js/video.js"> </script>
+</html>
