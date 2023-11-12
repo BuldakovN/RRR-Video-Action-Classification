@@ -43,7 +43,7 @@
 ```Bash
 git clone https://github.com/BuldakovN/RRR-Video-Action-Classification.git
 ```
-2. Скачайте веса для модели детекции https://drive.google.com/drive/folders/1iQRcneyDnb3q7LZ9wcGfkDt3W5zAKjwD?usp=sharing
+2. Скачайте веса для модели детекции https://drive.google.com/drive/folders/1iQRcneyDnb3q7LZ9wcGfkDt3W5zAKjwD?usp=sharing и разместите их в папках ```model/weights``` и ```modelStream/weights```
 
 3. Запуск контейнеров и сервера стриминга:
 ```Bash
@@ -55,15 +55,17 @@ cd modelStream
 
 pip3 install -r requirements.txt
 python3 serverStream.py
-
 ```
 
 ## <a name="4">Уникальность нашего решения </a>
 
-Возможность распознавания действий нескольких людей на одном кадре.
-Работает в режиме реального времени.
-Модель была предобучена на большом датасете.
-Удобный веб-интерфейс для работы с моделью.
+1. Возможность распознавания действий нескольких людей на одном кадре.
+
+2. Работает в режиме реального времени.
+
+3. Модель была предобучена на большом датасете.
+
+4. Удобный веб-интерфейс для работы с моделью.
 
 ## <a name="5">Стек </a>
 <div align="center">
