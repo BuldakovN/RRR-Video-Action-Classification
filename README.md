@@ -24,7 +24,7 @@
 
 ## <a name="2">Решение </a>
 
-### Архетиктура
+### Архетиктура решения
 
 <div align="center">
 <img height="300" alt="logo" src="assets/deploy.drawio.png">
@@ -32,7 +32,7 @@
 **Развертывание модели**
 </div> 
 
-**Архитектура**
+### Архетиктура модели
 
 <div align="center"><img height="200" alt="модель" src="assets/model_white.png"></div>
 
