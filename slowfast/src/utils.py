@@ -1,6 +1,8 @@
 from typing import Callable, Tuple
 import math
 import cv2
+import torch
+import numpy as np
 
 
 class VideoIterator:

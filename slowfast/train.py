@@ -28,7 +28,7 @@ def train_epoch(model, dataset, optimizer, loss):
 
     train_loss = 0
     for index in tqdm(indexes):
-        video_path, lable = dataset[index]
+        video_path, label = dataset[index]
         frames_generator = FramesGenerator(
             video_path=video_path,
             transform=transform,
