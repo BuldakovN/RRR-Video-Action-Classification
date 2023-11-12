@@ -32,9 +32,9 @@
 **Развертывание модели**
 </div> 
 
-**Тут могла быть ваша архитектура. Кратокое описание пайплайна**
+**Архитектура**
 
-<div align="center"><img height="500" alt="модель" src="https://media.tenor.com/64roenfjIC8AAAAi/shigure-ui-ui-shigure.gif"></div>
+<div align="center"><img height="500" alt="модель" src="assets/model_white.png"></div>
 
 ## <a name="3">Запуск кода </a>
 
@@ -82,7 +82,7 @@ python3 serverStream.py
 
 *Состав команды "Оседлавшие тильт"*   
 
-- <h4><img align="center" height="25" src="https://user-images.githubusercontent.com/51875349/198863127-837491f2-b57f-4c75-9840-6a4b01236c7a.png">: @Ubludor, Маслов Денис - Backend-developer</h3>
+- <h4><img align="center" height="25" src="https://user-images.githubusercontent.com/51875349/198863127-837491f2-b57f-4c75-9840-6a4b01236c7a.png">: @Ubludor, Маслов Денис - Fullstack-developer</h3>
 - <h4><img align="center" height="25" src="https://user-images.githubusercontent.com/51875349/198863127-837491f2-b57f-4c75-9840-6a4b01236c7a.png">: @BuldakovN, Булдаков Никита - CV-engineer</h3>
 - <h4><img align="center" height="25" src="https://user-images.githubusercontent.com/51875349/198863127-837491f2-b57f-4c75-9840-6a4b01236c7a.png">: @ilkorotkov, Коротков Илья - CV-engineer</h3>
 - <h4><img align="center" height="25" src="https://user-images.githubusercontent.com/51875349/198863127-837491f2-b57f-4c75-9840-6a4b01236c7a.png">: @Skadar7, Кузнецов Денис - CV-engineer</h3>
@@ -91,4 +91,4 @@ python3 serverStream.py
 ## <a name="7">Ссылки </a>
 
 - [ссылка на веса модели детекции](https://drive.google.com/drive/folders/1iQRcneyDnb3q7LZ9wcGfkDt3W5zAKjwD?usp=sharing)&nbsp;
-- [ссылка на скринкаст](https://www.youtube.com/watch?v=GFq6wH5JR2A)&nbsp;
+- [ссылка на скринкаст](https://drive.google.com/file/d/1Md4uNQFHtO_w9xxaigyc6ftbF0Tru6qk/view?usp=sharing)&nbsp;
