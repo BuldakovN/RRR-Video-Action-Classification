@@ -90,7 +90,5 @@ python3 serverStream.py
 
 ## <a name="7">Ссылки </a>
 
-
-- [Гугл диск с материалами](https://www.youtube.com/watch?v=GFq6wH5JR2A)&nbsp;
 - [ссылка на веса модели детекции](https://drive.google.com/drive/folders/1iQRcneyDnb3q7LZ9wcGfkDt3W5zAKjwD?usp=sharing)&nbsp;
 - [ссылка на скринкаст](https://www.youtube.com/watch?v=GFq6wH5JR2A)&nbsp;
