@@ -38,25 +38,32 @@
 
 ## <a name="3">Запуск кода </a>
 
-**Дополнить актуальными данными**
-
 ### Последовательные шаги для запуска кода:
 1. Склонируйте гит репозиторий;
 ```Bash
-git clone https://github.com/BuldakovN/Recognition-of-human-actions-by-video.git
+git clone https://github.com/BuldakovN/RRR-Video-Action-Classification.git
 ```
-2. Скачайте веса для модели детекции **тут будет наша ссылка на веса (если не загрухим их сразу на гитхаб)**
+2. Скачайте веса для модели детекции https://drive.google.com/drive/folders/1iQRcneyDnb3q7LZ9wcGfkDt3W5zAKjwD?usp=sharing
 
-3. Запуск контейнеров:
+3. Запуск контейнеров и сервера стриминга:
 ```Bash
-cd Recognition-of-human-actions-by-video
+cd RRR-Video-Action-Classification
 docker-compose build
 docker-compose up
+
+cd modelStream
+
+pip3 install -r requirements.txt
+python3 serverStream.py
+
 ```
 
 ## <a name="4">Уникальность нашего решения </a>
 
-**Описываем, какие цыганские фокусы мы применили, чтобы улучшить результат**
+Возможность распознавания действий нескольких людей на одном кадре.
+Работает в режиме реального времени.
+Модель была предобучена на большом датасете.
+Удобный веб-интерфейс для работы с моделью.
 
 ## <a name="5">Стек </a>
 <div align="center">
@@ -73,7 +80,7 @@ docker-compose up
 
 ## <a name="6">Команда </a>
 
-*Состав команды "**Имя команды**"*   
+*Состав команды "Оседлавшие тильт"*   
 
 - <h4><img align="center" height="25" src="https://user-images.githubusercontent.com/51875349/198863127-837491f2-b57f-4c75-9840-6a4b01236c7a.png">: @Ubludor, Маслов Денис - Backend-developer</h3>
 - <h4><img align="center" height="25" src="https://user-images.githubusercontent.com/51875349/198863127-837491f2-b57f-4c75-9840-6a4b01236c7a.png">: @BuldakovN, Булдаков Никита - CV-engineer</h3>
@@ -83,8 +90,7 @@ docker-compose up
 
 ## <a name="7">Ссылки </a>
 
-**Заменить ссылки на актуальные**
 
 - [Гугл диск с материалами](https://www.youtube.com/watch?v=GFq6wH5JR2A)&nbsp;
-- [ссылка на веса модели детекции](https://www.youtube.com/watch?v=GFq6wH5JR2A)&nbsp;
+- [ссылка на веса модели детекции](https://drive.google.com/drive/folders/1iQRcneyDnb3q7LZ9wcGfkDt3W5zAKjwD?usp=sharing)&nbsp;
 - [ссылка на скринкаст](https://www.youtube.com/watch?v=GFq6wH5JR2A)&nbsp;
