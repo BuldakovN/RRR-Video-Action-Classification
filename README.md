@@ -84,7 +84,7 @@ python3 serverStream.py
 
 *Состав команды "Оседлавшие тильт"*   
 
-- <h4><img align="center" height="25" src="https://user-images.githubusercontent.com/51875349/198863127-837491f2-b57f-4c75-9840-6a4b01236c7a.png">: @Ubludor, Маслов Денис - Fullstack-developer</h3>
+- <h4><img align="center" height="25" src="https://user-images.githubusercontent.com/51875349/198863127-837491f2-b57f-4c75-9840-6a4b01236c7a.png">: @facT0RR, Маслов Денис - Fullstack-developer</h3>
 - <h4><img align="center" height="25" src="https://user-images.githubusercontent.com/51875349/198863127-837491f2-b57f-4c75-9840-6a4b01236c7a.png">: @BuldakovN, Булдаков Никита - CV-engineer</h3>
 - <h4><img align="center" height="25" src="https://user-images.githubusercontent.com/51875349/198863127-837491f2-b57f-4c75-9840-6a4b01236c7a.png">: @ilkorotkov, Коротков Илья - CV-engineer</h3>
 - <h4><img align="center" height="25" src="https://user-images.githubusercontent.com/51875349/198863127-837491f2-b57f-4c75-9840-6a4b01236c7a.png">: @Skadar7, Кузнецов Денис - CV-engineer</h3>
