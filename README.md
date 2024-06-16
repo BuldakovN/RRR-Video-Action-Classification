@@ -27,7 +27,12 @@
 ### Архетиктура решения
 
 <div align="center">
-<img height="300" alt="logo" src="assets/deploy.drawio.png">
+<div align="center" height="300">
+
+  ![image](https://github.com/BuldakovN/RRR-Video-Action-Classification/assets/90902720/2bd24889-f940-49e8-8e24-4f9eedf75aad)
+  
+</div>
+
 
 **Развертывание модели**
 </div> 
